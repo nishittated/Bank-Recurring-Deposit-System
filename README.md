@@ -1,8 +1,9 @@
+
 # BankRecurringDepositSystem
 
 # BankRecurringDepositSystem developed in C++.
 
-Download from here: https://github.com/nishittated/BankRecurringDepositSystem
+Download from here: https://github.com/nishittated/Bank-Recurring-Deposit-System
 
 # Developed By: Nishit Tated & Ankit Shah
 
