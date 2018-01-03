@@ -25,7 +25,7 @@ class Account
         virtual int return_funds() =0;
         virtual char accounttype() =0;
 };
-class Recurring : public Account
+class Recurring : public Account 
 {
 public:
     void login();
