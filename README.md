@@ -15,5 +15,5 @@ Download from here: https://github.com/nishittated/Bank-Recurring-Deposit-System
 * <a href="https://www.github.com/nishittated/nishittated/">Github</a>
 * <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
 
-# Contributing to TypeColor
+# Contributing to Bank Recurring Deposit System
 * All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Bank-Recurring-Deposit-System/blob/master/CONTRIBUTNG.MD">contribution guidelines </a>when you submit pull request.
