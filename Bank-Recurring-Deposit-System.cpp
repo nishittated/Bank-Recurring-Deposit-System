@@ -1,7 +1,7 @@
 #include <iostream> 
 #include <fstream>
 #include <cstdlib>
-#include <stdio.h>
+#include <stdio.h>  
 #include <conio.h>
 #include <iomanip>
  
@@ -55,8 +55,8 @@ class Bank              //Class definition Starts
     {
         string pass;
         cout << "Enter the Password for Login : ";
-        cin  >> pass;
-    }
+        cin  >> pass;   
+    }                     
     void init()                //function to create an account
     {
         cout << "Enter the Account Holder's Name :";
